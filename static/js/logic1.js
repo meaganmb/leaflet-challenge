@@ -99,5 +99,3 @@ function createMap(earthquakes) {
   // Adding legend to the map
   legend.addTo(myMap)
 }
-
-
